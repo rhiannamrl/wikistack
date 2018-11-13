@@ -1,0 +1,28 @@
+{
+  "name": "wikistack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./Users/rhiannalarocque/GraceHopper/weekTwo/wikistack/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhiannamrl/wikistack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhiannamrl/wikistack/issues"
+  },
+  "homepage": "https://github.com/rhiannamrl/wikistack#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
